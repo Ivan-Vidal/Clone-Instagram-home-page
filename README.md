@@ -14,4 +14,4 @@
 <p> Aprimorar os conhecimento em linguagem de marcação e de estilo em cascata, assim com melhor base para integrar o JavaScript.</p>
 
 
-* Desenvolvido com carinho, por Ivan Vidal*
+## Desenvolvido com carinho, por Ivan Vidal 
